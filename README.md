@@ -3,7 +3,7 @@
 ## Files to include
 ### boot.asm
 - Line by line explanation of boot: https://jsandler18.github.io/explanations/boot_S.html
-- https://www.youtube.com/watch?v=xFrMXzKCXIc
+- Tutorial: https://www.youtube.com/watch?v=xFrMXzKCXIc
 
 ### kernel.c
 - 
